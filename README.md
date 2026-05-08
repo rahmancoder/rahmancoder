@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmancoder" alt="rahmancoder" /></a> </p>
 
-- 🌱 I’m currently learning **React, JS, Node, Express, NextJS**
+- 🌱 I'm currently learning **React, JS, Node, Express, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahmancoder](https://github.com/rahmancoder)
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-mustafizur-rahman-sayem-22b856156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mustafizur rahman sayem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCU_GV9uLrxHl4-1WkTPzr1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sayhem rahman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mustafizur-rahman-sayem-22b856156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mustafizur-rahman-sayem-22b856156" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCU_GV9uLrxHl4-1WkTPzr1g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucu_gv9ulrxhl4-1wktpzr1g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmancoder&show_icons=true&locale=en" alt="rahmancoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmancoder&" alt="rahmancoder" /></p>
-
