@@ -132,4 +132,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmancoder&show_icons=true&locale=en" alt="rahmancoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmancoder&" alt="rahmancoder" /></p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahmancoder" alt="GitHub Streak" />
+</p>
