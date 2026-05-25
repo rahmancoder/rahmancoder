@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="45" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCU_GV9uLrxHl4-1WkTPzr1g" target="_blank">
+<a href="https://www.youtube.com/@mdmustafizurrahman" target="_blank">
   <img src="https://skillicons.dev/icons?i=youtube" height="50" />
 </a>
 
