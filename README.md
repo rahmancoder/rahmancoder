@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://www.youtube.com/@mdmustafizurrahman" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="45" />
 </a>
 
 </p>
