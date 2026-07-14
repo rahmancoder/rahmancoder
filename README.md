@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="https://chatgpt.com/s/m_6a568e639ba48191811d3223660fa154" alt="MD MUSTAFIZUR RAHMAN">
+<img src="./banner/mustafizBanner.png" alt="MD MUSTAFIZUR RAHMAN">
 
 <div align="center">
 
@@ -129,9 +129,10 @@ const mustafizur = {
 ```
 
 ---
-<p align="center">
+<!-- Need contribution-snake folder or repo file than u can add animation  -->
+<!-- <p align="center">
   <img src="https://github.com/rahmancoder/contribution-snake/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</p> -->
 
 <div align="center">
 
